@@ -27,6 +27,3 @@
 * Save the file.
 * Review Live Server / Refresh browser.
 * Make desired edits.
-
-
-
