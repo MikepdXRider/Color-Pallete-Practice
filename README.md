@@ -1,5 +1,5 @@
 # Color-Pallete-Practice
-### A simple HTML &amp; CSS website built to allow developers to experiment with color palettes in a pre-set web environment.
+### A simple website(HTML &amp; CSS) built to enable developers to experiment with color palettes in a pre-built environment.
 
 
 ## Re-Sources
