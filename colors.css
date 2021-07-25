@@ -1,0 +1,139 @@
+/*Edit this file to manipulate colors shown on page*/
+
+/*General Rule: Your design should consist be composed of 60% primary colors, 30% secondary colors, 10% accent colors*/
+:root{
+    --primary: #fff; /* Place Primary Color Here*/
+    /*--Primary2: ; Uncomment & Place Second Primary Color Here*/
+
+    --secondary: ; /*Place Secondary Color Here*/ 
+    /* --secondary2: ; Uncomment & Place Second Secondary Color Here*/
+
+    --accent: ; /*Place Accent Color Here*/
+    /* --accent2: ; Uncomment & Place Second Accent Color Here*/
+}
+
+
+/*Add colors by using var(--primary), var(--secondary), var(--accent), etc*/
+
+
+/*==========
+Top Left Module
+==========*/
+.topLeft{
+    background-color: var(--primary); /*Usually A Primary Color*/
+}
+
+.topLeft .main-text{
+    color: ; /*Legibility is most important. This color should contrast well with the Background Color*/
+}
+
+.topLeft .small-text{
+    color: ; /*Legibility is most important. This color should contrast well with the Background Color. If treating text like a link, an accent color can be used to emphasize a call to action.*/
+}
+
+.topLeft button{ /*This is a Call to Action - Accent Colors should be used here*/
+    color: ; 
+    background-color: ;
+    border-color: ; 
+}
+
+.topLeft .largeDesignElement{
+    background-color: ;
+}
+
+.topLeft .smallDesignElement{
+    background-color: ;
+}
+
+
+
+/*==========
+Top Right Module
+==========*/
+.topRight{
+    background-color: ; /*Background Color - Usually A Primary Color*/
+}
+
+.topRight .main-text{
+    color: ; /*Main Text Color - Legibility is most important. This color should contrast well with the Background Color*/
+}
+
+.topRight .small-text{
+    color: ; /*Legibility is most important. This color should contrast well with the Background Color. If treating text like a link, an accent color can be used to emphasize a call to action.*/
+}
+
+.topRight button{ /*This is a Call to Action - An Accent Color should be used here*/
+    color: ; /*Text*/
+    background-color: ;
+    border: ; 
+}
+
+.topRight .largeDesignElement{
+    background-color: ;
+}
+
+.topRight .smallDesignElement{
+    background-color: ;
+}
+
+
+
+/*==========
+Bottom Left Module
+==========*/
+.bottomLeft{
+    background-color: ; /*Background Color - Usually A Primary Color*/
+}
+
+.bottomLeft .main-text{
+    color: ; /*Main Text Color - Legibility is most important. This color should contrast well with the Background Color*/
+}
+
+.bottomLeft .small-text{
+    color: ; /*Legibility is most important. This color should contrast well with the Background Color. If treating text like a link, an accent color can be used to emphasize a call to action.*/
+}
+
+.bottomLeft button{ /*This is a Call to Action - An Accent Color should be used here*/
+    color: ; /*Text*/
+    background-color: ;
+    border: ; 
+}
+
+.bottomLeft .largeDesignElement{
+    background-color: ;
+}
+
+.bottomLeft .smallDesignElement{
+    background-color: ;
+}
+
+
+
+/*==========
+Bottom Right Module
+==========*/
+.bottomRight{
+    background-color: ; /*Background Color - Usually A Primary Color*/
+}
+
+.bottomRight .main-text{
+    color: ; /*Main Text Color - Legibility is most important. This color should contrast well with the Background Color*/
+}
+
+.bottomRight .small-text{
+    color: ; /*Legibility is most important. This color should contrast well with the Background Color. If treating text like a link, an accent color can be used to emphasize a call to action.*/
+}
+
+.bottomRight button{ /*This is a Call to Action - An Accent Color should be used here*/
+    color: ; /*Text*/
+    background-color: ;
+    border: ; 
+}
+
+.bottomRight .largeDesignElement{
+    background-color: ;
+}
+
+.bottomRight .smallDesignElement{
+    background-color: ;
+}
